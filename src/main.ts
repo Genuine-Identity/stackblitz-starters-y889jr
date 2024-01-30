@@ -6,7 +6,7 @@ import 'zone.js';
   selector: 'app-root',
   standalone: true,
   template: `
-    <h1>Hello from giris {{ name }}!</h1>
+    <h1>Hello from testing {{ name }}!</h1>
     <a target="_blank" href="https://angular.dev/overview">
       Learn more about Angular
     </a>
